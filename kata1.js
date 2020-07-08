@@ -1,3 +1,9 @@
+/* KATA 1 - Sum the Largest Numbers
+
+Create a function named sumLargestNumbers that will receive an array of numbers and return the sum of the two largest numbers in that array.
+
+*/
+
 const sumLargestNumbers = function(data) {
   // Put your solution here
 
